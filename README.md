@@ -1,2 +1,2 @@
 # SCoR
-The Supercomputer Robot Controller (SCoR) is a robot controller that utilizes advancements in low-power micro-computing to realize a network of independent nodes that distribute computing and create a robust real-time system.
+The VHDL code used, Inverse Kinematics code both in MATLAB used for simulation and Java used for Apache Hadoop and an image of the SD card used in the Zedboard for the project are all posted here. 
