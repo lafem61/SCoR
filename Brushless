@@ -2,3 +2,4 @@ cd Downloads/BLDC
 git add bldc_simple_toplevel.vhd
 git add pwm.vhd
 git add toplevel_tb.vhd
+git commit -m "Brushless VHDL'
