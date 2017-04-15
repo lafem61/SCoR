@@ -1,2 +1,4 @@
-/
-git add doc
+cd Downloads/BLDC
+git add bldc_simple_toplevel.vhd
+git add pwm.vhd
+git add toplevel_tb.vhd
